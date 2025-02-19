@@ -54,5 +54,6 @@ public class StudentGrades2d {
             System.out.println("Student " + (i + 1) + " marks: ");
             System.out.println("Physics: " + studentData[i][0]);
             System.out.println("Chemistry: " + studentData[i][1]);
+        }
     }
 }
