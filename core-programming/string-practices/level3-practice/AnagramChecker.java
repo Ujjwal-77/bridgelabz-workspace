@@ -7,7 +7,7 @@ public class AnagramChecker {
             return false;
         }
 
-        int[] freq = new int[256];
+        int[] freq = new int[123];
 
         for (char c : text1.toCharArray()) {
             freq[c]++;
